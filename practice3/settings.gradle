@@ -16,3 +16,5 @@ rootProject.name = "practice3"
 include ':IntentApp'
 include ':Share'
 include ':resultactivity'
+include ':systemintentapp'
+include ':simplefragmentapp'
