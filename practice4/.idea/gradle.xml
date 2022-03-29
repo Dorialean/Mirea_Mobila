@@ -10,10 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GradleIsnotBuildingHereForSomeReason" />
             <option value="$PROJECT_DIR$/data_thread" />
             <option value="$PROJECT_DIR$/loadermanager" />
             <option value="$PROJECT_DIR$/looper" />
+            <option value="$PROJECT_DIR$/musicproject" />
             <option value="$PROJECT_DIR$/thread" />
+            <option value="$PROJECT_DIR$/workmanager" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
