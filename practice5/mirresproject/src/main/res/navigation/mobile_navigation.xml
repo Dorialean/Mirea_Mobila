@@ -22,4 +22,9 @@
         android:name="ru.mirea.lukutin.mirresproject.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/hardwareFragment"
+        android:name="ru.mirea.lukutin.mirresproject.ui.hardware.HardwareFragment"
+        android:label="Hardware"
+        tools:layout="@layout/fragment_hardware" />
 </navigation>
