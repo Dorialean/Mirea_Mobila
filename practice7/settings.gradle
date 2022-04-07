@@ -16,3 +16,4 @@ rootProject.name = "practice7"
 include ':SocketConnection'
 include ':httpurlconnection'
 include ':firebaseauth'
+include ':controltask'
